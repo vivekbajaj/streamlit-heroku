@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 st.write('# Sum of Two Numbers')
 #get input
 # input 1
